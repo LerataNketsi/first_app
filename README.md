@@ -1,2 +1,2 @@
-# fist_app
+# first_app
 Beginner
